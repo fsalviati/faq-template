@@ -3,7 +3,7 @@ React page showing questions and answers using accordion template.
 
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
